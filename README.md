@@ -13,6 +13,16 @@
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
 </p>
 
+<p align="center">
+  <a href="https://matthew-sales-dashboard.streamlit.app"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"></a><br>
+  <b>▶ <a href="https://matthew-sales-dashboard.streamlit.app">Try the live demo</a></b>: no install needed. It runs on dummy data, or you can upload your own Excel/CSV.
+</p>
+
+<p align="center">
+  <a href="https://matthew-sales-dashboard.streamlit.app"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"></a><br>
+  <b>▶ <a href="https://matthew-sales-dashboard.streamlit.app">Try the live demo</a></b>: no install needed. It runs on dummy data, or you can upload your own Excel/CSV.
+</p>
+
 ---
 
 ## 🚀 Value Proposition
